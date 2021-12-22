@@ -1,18 +1,16 @@
 :root {
-    --font--bellefair: Bellefair;
-    --font--barlow-condensed: BarlowCondensed;
+    --font--outfit: Outfit;
+
+    --font-weight--light: 300;
+    --font-weight--regular: 400;
+    --font-weight--bold: 600;
+
+    --font-size: 18px;
+    font-size: var(--font-size);
 }
 
 @font-face {
-    font-family: 'Bellefair';
-    src: url('../fonts/Bellefair.ttf') format('truetype');
-    font-weight: 400;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'BarlowCondensed';
-    src: url('../fonts/BarlowCondensed.ttf ') format('truetype');
-    font-weight: 400;
+    font-family: 'Outfit';
+    src: url('../fonts/Outfit.ttf') format('truetype');
     font-style: normal;
 }

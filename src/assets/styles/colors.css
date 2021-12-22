@@ -1,9 +1,11 @@
 :root {
-    --color-blue--very-dark: hsl(230 35% 7%);
-    --color-blue--very-dark--transparent: hsl(230 35% 7% / 10%);
-    --color-blue--very-light: hsl(231 77% 90%);
-    --color-blue--very-light--transparent: hsl(231 77% 90% / 10%);
+    --color-blue--very-dark-main: hsl(217 54% 11%);
+    --color-blue--very-dark-card: hsl(216 50% 16%);
+    --color-blue--very-dark-line: hsl(215 32% 27%);
+
+    --color-blue--soft: hsl(215 51% 70%);
+    --color-cyan: hsl(178 100% 50%);
+    --color-cyan--transparent: hsl(178 100% 50% / 55%);
 
     --color-white: hsl(0 0% 100%);
-    --color-white--transparent: hsl(0 0% 100% / 4%);
 }
