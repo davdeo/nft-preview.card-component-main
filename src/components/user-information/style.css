@@ -1,0 +1,27 @@
+.user-information {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+    border-top: solid 1px var(--color-blue--very-dark-line);
+    padding-top: 1rem;
+}
+
+.avatar-image {
+    border-radius: 100%;
+    border: 1px solid var(--color-white);
+    width: 35px;
+}
+
+.created-by {
+    display: flex;
+    gap: 5px;
+}
+
+.creator {
+    color: var(--color-white);
+}
+
+.creator:hover {
+    color: var(--color-cyan);
+}
