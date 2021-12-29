@@ -1,8 +1,8 @@
 {
-    "name": "react-boilerplate",
+    "name": "nft-preview-card-dmonz",
     "version": "1.0.0",
     "description": "",
-    "private": true,
+    "private": false,
     "dependencies": {
         "react": "^17.0.2",
         "react-dom": "^17.0.2",
@@ -30,12 +30,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/davdeo/react-boiler-plate.git"
+        "url": "git+https://github.com/davdeo/nft-preview.card-component-main.git"
     },
     "author": "David Monz",
     "license": "UNLICENCED",
     "bugs": {
-        "url": "https://github.com/davdeo/react-boiler-plate/issues"
+        "url": "https://github.com/davdeo/nft-preview.card-component-main/issues"
     },
-    "homepage": "https://github.com/davdeo/react-boiler-plate#readme"
+    "homepage": "https://github.com/davdeo/nft-preview.card-component-main#readme"
 }
